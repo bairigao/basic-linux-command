@@ -1,28 +1,28 @@
 # basic-linux-command
 some basic will be helpful
 
-File and Directory Management
-ls: List files and directories.
-cd: Change the current directory.
-pwd: Print the current working directory.
-mkdir: Create a new directory.
-rm: Remove files and directories.
-cp: Copy files and directories.
-mv: Move or rename files and directories.
-find: Search for files and directories.
-chmod: Change file permissions.
-chown: Change file ownership.
-chgrp: Change file group ownership.
-2. Text Manipulation and Viewing
+# 1. File and Directory Management
+# ls: List files and directories.
+# cd: Change the current directory.
+# pwd: Print the current working directory.
+# mkdir: Create a new directory.
+# rm: Remove files and directories.
+# cp: Copy files and directories.
+# mv: Move or rename files and directories.
+# find: Search for files and directories.
+# chmod: Change file permissions.
+# chown: Change file ownership.
+# chgrp: Change file group ownership.
+# 2. Text Manipulation and Viewing
 
-cat: Concatenate and display file contents.
-grep: Search for patterns in files.
-head: Display the beginning of a file.
-tail: Display the end of a file.
-less: View file contents interactively.
-sed: Stream editor for text manipulation.
-awk: Text processing and data extraction tool.
-3. Process and System Management
+# cat: Concatenate and display file contents.
+# grep: Search for patterns in files.
+# head: Display the beginning of a file.
+# tail: Display the end of a file.
+# less: View file contents interactively.
+# sed: Stream editor for text manipulation.
+# awk: Text processing and data extraction tool.
+# 3. Process and System Management
 
 ps: View running processes.
 top: Monitor system resources and processes in real-time.
